@@ -19,7 +19,7 @@ I work at the intersection of **hardware engineering**, **IT systems**, and **ar
 | Credential | Issued |
 |---|---|
 | MS IT – AI Engineering (in progress) | ASU 4+1 Fast Track |
-| Foundations of AI Engineering – CodePath AI110 | Present |
+| Foundations of AI Engineering – CodePath AI110 | In Progress |
 | AWS Cloud Foundations | Feb 2024 |
 | Data Analytics Part 1 | Oct 2023 |
 | ASU Full Stack / Coding for Web | Aug 2023 |
